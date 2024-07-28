@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.App {
+  height: 90vh;
+  margin-top: 1.5rem;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background: rgb(234, 227, 227);
+  border: 1px solid grey;
+}
+
+input {
+  padding: 10px;
+  margin: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.weather {
+  margin-top: 1rem;
+}
